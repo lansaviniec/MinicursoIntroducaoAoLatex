@@ -1,0 +1,137 @@
+Resumo:
+
+	Este documento apresenta uma breve introdução a escrita de um artigo em \LaTeX. É ensinado como criar seções e subseções, figuras, tabelas, lista de itens, alterar a fonte do texto, criar fórmulas matemáticas e fazer citações usando o Abntex2 e o Bibtex.
+
+
+1) Introdução
+
+A ideia do \LaTeX é distanciar o autor o máximo possível da formatação visual do texto. Em \LaTeX, as formatações são conhecidas por templates, e em muitos casos, já os encontramos prontos evitando que nos preocupemos com a criação do template.
+
+
+2) Criando figuras
+
+A Figura X apresenta a bandeira do Brasil. O Brasil é um país localizado na América do Sul, sendo o quinto maior do mundo em área territorial, com uma população de aproximadamente 207 milhões de habitantes.
+
+    <<Inserir a bandeira do Brasil>>
+
+
+2.1) Criando subseções
+
+A Federação Brasileira é composta pelos seguintes estados:
+
+    - Paraná
+    - Santa Catarina
+    - Rio Grande do Sul
+    - São Paulo
+    - ...
+
+Dentre esses estados, o mais belo é o Estado do Paraná, cujos símbolos oficiais são mostrados na Figura X. A bandeira é mostrada na Figura X e o brasão de armas é mostrado na Figura X.
+
+    <<Inserir a bandeira e o brasão do Paraná>>
+
+
+3) Criando tabelas
+
+Além de ser o estado mais belo do Brasil, o Paraná também abriga as melhores universidades do país, cujos nomes são mostrados na Tabela X.
+
+	<<Inserir uma tabela com os nomes das universidades>>
+
+
+4) Fonte do texto
+
+Podemos mudar o tamanho da fonte do texto, colocar cores, negritos, itálicos, grifos, e entre outros.
+
+
+4.1) Tamanhos de fonte
+
+Os seguintes tamanhos de fonte estão disponíveis:
+
+	- Tamanho tiny.
+	- Tamanho scriptsize.
+	- Tamanho footnotesize.
+	- Tamanho small.
+	- Tamanho normalsize.
+	- Tamanho large.
+	- Tamanho Large.
+	- Tamanho LARGE.
+	- Tamanho huge.
+	- Tamanho Huge.
+
+
+4.2) Cores, negritos, itálicos e sublinhados
+
+Dentre as universidades Paranaenses, a melhor para se estudar é a UFPR, devido as seguintes características:
+	
+	1. É a instituição mais antiga do país.
+	2. Possui os professores mais preparados.
+	3. Oferece a melhor estrutura para os alunos.
+
+
+5) Fórmulas matemáticas
+
+	O \LaTeX também fornece recursos poderosos para a edição de fórmulas matemáticas:
+
+
+5.1) Subscritos
+
+
+5.2) Sobrescritos
+
+
+5.3) Radicais
+	
+
+5.4) Frações
+	
+
+5.5) Somatórios
+
+
+5.6) Notações de conjuntos
+	
+
+5.7) Lógica
+
+
+5.8) Referenciando uma equação
+	
+	Na estatística, a média de um conjunto de valores xxxxxxxxxx é dado pela expressão (X).
+	
+	<<Inserir a equação da média>>
+
+
+6) Citações no padrão ABNT com Abntex2 e Bibtex
+	
+	Para fazer citações, podemos organizar nossas referências bibliográficas em um arquivo usando o formato Bibtex e usar o pacote Abntex para automatizar a inserção de citações no texto.
+	
+	A seguir, apresentamos as duas formas básicas de fazer citações em textos usando o pacote Abntex2.
+
+
+6.1) Exemplo 1
+
+	A Máquina de Turing <<CITAÇÃO 1>> permitiu aos cientistas formularem a teoria da complexidade computacional.
+
+
+6.2) Exemplo 2
+
+	A artigo de <<CITAÇÃO 1>> apresenta uma introdução ao \LaTeX.
+
+
+7) Mais sobre \LaTeX
+	
+	O leitor interessado em aprender mais sobre \LaTeX pode consultar o material disponível no site https://en.wikibooks.org/wiki/LaTeX.
+
+
+8) Conclusão
+
+	O \LaTeX é realmente uma ferramenta poderosa que nos torna bastante independentes do processo de formatação do texto, e isto nos proporciona ganhos razoáveis em produtividade.
+
+
+Referências
+
+SAVINIEC, L. Aprendendo Latex. 2. ed. Curitiba: Editora UFPR, 2018, v. 1.
+
+TURING, A. A máquina de Turing. Revista de computação, v. 51, n. 1, p. 50-70, 1936.
+
+
+
