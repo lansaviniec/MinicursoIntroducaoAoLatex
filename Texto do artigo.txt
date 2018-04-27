@@ -1,6 +1,6 @@
 Resumo:
 
-	Este documento apresenta uma breve introdução a escrita de um artigo em \LaTeX. É ensinado como criar seções e subseções, figuras, tabelas, lista de itens, alterar a fonte do texto, criar fórmulas matemáticas e fazer citações usando o Abntex2 e o Bibtex.
+Este documento apresenta uma breve introdução a escrita de um artigo em \LaTeX. É ensinado como criar seções e subseções, figuras, tabelas, lista de itens, alterar a fonte do texto, criar fórmulas matemáticas e fazer citações usando o Abntex2 e o Bibtex.
 
 
 1) Introdução
@@ -34,7 +34,7 @@ Dentre esses estados, o mais belo é o Estado do Paraná, cujos símbolos oficia
 
 Além de ser o estado mais belo do Brasil, o Paraná também abriga as melhores universidades do país, cujos nomes são mostrados na Tabela X.
 
-	<<Inserir uma tabela com os nomes das universidades>>
+    <<Inserir uma tabela com os nomes das universidades>>
 
 
 4) Fonte do texto
